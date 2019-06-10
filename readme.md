@@ -4,7 +4,8 @@
 
 Consider the following statistics:
 
-```* People
+```
+* People
 -54% of Americans suffer from stress.
 - 18 million meditate
 - 36 million Americans practice yoga
