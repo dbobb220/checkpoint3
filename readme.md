@@ -20,7 +20,7 @@ Consider the following statistics:
 - Apple App store did $34billion in sales in 2018
 ```
 
-Well made gongs that produce sounds for sound healing therapy can cost a couple thousand dollars at minimum
+Well made gongs, and other sound therapy equipment, can cost a couple thousand dollars at minimum.
 
 #### How it solves the problem.
 
